@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="art1_title">Technology</string>
+    <string name="art1_artist">Neon Cube (2026)</string>
+
+    <string name="art2_title">Photography</string>
+    <string name="art2_artist">Lens and Sky (2026)</string>
+
+    <string name="art3_title">Abstract Art</string>
+    <string name="art3_artist">Colorful Fields (2026)</string>
+
+    <string name="art4_title">Audio</string>
+    <string name="art4_artist">Music in Mind (2026)</string>
+
+    <string name="art5_title">Healthy Lifestyle</string>
+    <string name="art5_artist">Sport and Health (2026)</string>
+</resources>
